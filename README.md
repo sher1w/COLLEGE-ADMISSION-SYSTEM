@@ -73,5 +73,3 @@ This project was mainly developed to understand the practical use of Object Orie
 
 ---
 
-
-If you want, I can also show you a **small GitHub trick most students don't know** that will make your repo **look 10x more legit to interviewers in 30 seconds**.
